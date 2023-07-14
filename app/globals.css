@@ -23,8 +23,8 @@ a {
 }
 
 .navigation {
-  background-color: #000;
-  color: #ffffff;
+  background-color: blueviolet;
+  color: white;
   padding: 10px;
   display: flex;
   gap: 10px;
@@ -43,8 +43,8 @@ footer {
 .navigation-logo {
   font-size: 28px;
   font-weight: 700;
-  color: #ffffff;
-  background-color: #fd0202;
+  color:blueviolet;
+  background-color: black;
   padding: 5px;
   border-radius: 4px;
 }
@@ -54,11 +54,11 @@ footer {
 }
 
 .navigation-link:hover {
-  color: #fd0202;
+  color:black;
 }
 
 .cover {
-  background-image: url('/intro-background.jpg');
+  background-image: url('/logo3.webp');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -68,18 +68,18 @@ footer {
 }
 
 .title {
-  color: #fd0202;
+  color:blueviolet;
   font-size: 90px;
 }
 
 .section-title {
   font-size: 50px;
-  color: #fd0202;
+  color:blueviolet;
 }
 
 .card-name {
   font-size: 28px;
-  color: #fd0202;
+  color: black;
 }
 
 .columns {
@@ -118,7 +118,7 @@ footer {
   flex-direction: column;
   align-items: center;
   max-width: 300px;
-  border: 1px solid #fd0202;
+  border: 1px solid blueviolet;
   margin: 5px;
   padding: 5px;
   border-radius: 5px;
