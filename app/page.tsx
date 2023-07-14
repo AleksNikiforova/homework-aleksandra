@@ -26,7 +26,7 @@ export default function Home() {
         <div className="column-half">
           <h2 className="section-title">Clothes</h2>
           <p>
-          adidas women's hoodies combine style and comfort so that you can 
+          adidas women&apos;s hoodies combine style and comfort so that you can 
           look and feel great. A versatile choice for warmups, cool downs or
            much needed chill time. Explore our full range of hoodies 
            in a variety of colours and sizes.
@@ -40,8 +40,8 @@ export default function Home() {
       <div className="container">
         <h2 className="section-title">Adidas History</h2>
         <p>
-        The company was started by Adolf Dassler in his mother's house. 
-        He was joined by his elder brother Rudolf in 1924 under the name Gebrüder Dassler Schuhfabrik ("Dassler Brothers Shoe Factory"). 
+        The company was started by Adolf Dassler in his mother&quot;s house. 
+        He was joined by his elder brother Rudolf in 1924 under the name Gebrüder Dassler Schuhfabrik (&quot;Dassler Brothers Shoe Factory&quot;). 
         Dassler assisted in the development of spiked running shoes (spikes) for multiple athletic events.
         </p>
       </div>
